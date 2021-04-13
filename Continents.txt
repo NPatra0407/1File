@@ -1,0 +1,11 @@
+
+
+Six continents of the world:
+1.Asia
+2.Africa
+3.North America
+4.South America
+5.Australia
+6.Antartica
+
+
